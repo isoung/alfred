@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/alfred.iml" filepath="$PROJECT_DIR$/.idea/modules/alfred.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alfred-core/alfred-core.iml" filepath="$PROJECT_DIR$/alfred-core/alfred-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/alfred_main.iml" filepath="$PROJECT_DIR$/.idea/modules/alfred_main.iml" group="alfred" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/alfred_test.iml" filepath="$PROJECT_DIR$/.idea/modules/alfred_test.iml" group="alfred" />
+    </modules>
+  </component>
+</project>
